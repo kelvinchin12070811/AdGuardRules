@@ -1,0 +1,4 @@
+@@||incoming.telemetry.mozilla.org^$important
+||xiaohongshu.com^
+||xhscdn.com^
+||kuaishou.com^
