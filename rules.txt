@@ -1,5 +1,4 @@
 @@||incoming.telemetry.mozilla.org^$important
-@@||tracking.shopback.com^$important
 ||xiaohongshu.com^
 ||xhscdn.com^
 ||kuaishou.com^
