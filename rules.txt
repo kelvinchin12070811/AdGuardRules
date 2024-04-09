@@ -1,4 +1,6 @@
 @@||incoming.telemetry.mozilla.org^$important
+@@||ani.gamer.com.tw^$important
+@@||gamer.com.tw^$important
 ||xiaohongshu.com^
 ||xhscdn.com^
 ||kuaishou.com^
